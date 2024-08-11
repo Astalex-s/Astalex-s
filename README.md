@@ -4,5 +4,7 @@
 
 ![static badge](https://img.shields.io/badge/py-python-brightgreen?logo=python)
 ![static badge](https://img.shields.io/badge/-django-blue?logo=django)
-  
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
