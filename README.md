@@ -1,15 +1,5 @@
 ## Hi there 👋
-
-
-
-<img class="marginauto" src= "https://github.com/Astalex-s/Astalex-s/blob/main/cute-dog.gif" alt="The unlimited" width="200">
-<style>
-.marginauto {
-    margin: 10px auto 20px;
-    align: right;
-    display: block;
-}
-</style>
+<img class="marginauto" src= "https://github.com/Astalex-s/Astalex-s/blob/main/cute-dog.gif" align=right alt="The unlimited" width="200">
 
 <b>##My tools</b><br>
 ![static badge](https://img.shields.io/badge/py-python-brightgreen?logo=python)
