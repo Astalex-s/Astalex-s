@@ -1,5 +1,5 @@
-## Hi there 👋
-<img class="marginauto" src= "https://github.com/Astalex-s/Astalex-s/blob/main/cute-dog.gif" align=right alt="The unlimited" width="200">
+## Hi there 👋, I’m Alex
+<img class="marginauto" src="https://github.com/Astalex-s/Astalex-s/blob/main/cute-dog.gif" align="right" alt="The unlimited" width="200">
 
 <b>## My tools</b><br>
 ![static badge](https://img.shields.io/badge/py-python-brightgreen?logo=python)
@@ -13,10 +13,14 @@
 
 ---
 
-💡 Я вайб-кодер: инженерный подход, чистый код, Python + Django + SQL + API. Опыт автоматизации процессов, работы с БД, деплоя на VPS и интеграции ИИ (OpenAI, LangChain).  
+💡 I’m a vibe coder with an engineering mindset: I write clean Python code using Django, SQL, and APIs. I have experience in process automation, database management, VPS deployment, and AI integration (OpenAI, LangChain). Always exploring new ways to make tech more fun and efficient!  
+
+---
+
+### 📫 Let’s Connect
+- Telegram: [@astalex_s](https://t.me/AlexBotTeh)  
+- Email: [alex@example.com](mailto:astaf.al.mi@gmail.com)  
 
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astalex-s&show_icons=true&theme=radical)
-
-
