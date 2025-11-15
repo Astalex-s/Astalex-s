@@ -1,15 +1,14 @@
 Привет 👋, я Алекс
 <img class="marginauto" src="https://github.com/Astalex-s/Astalex-s/blob/main/cute-dog.gif" align="right" alt="The unlimited" width="200">
 ## Мой стек технологий
-
-static badge
-static badge
-static badge
-static badge
-static badge
-static badge
-static badge
-static badge
+![static badge](https://img.shields.io/badge/py-python-brightgreen?logo=python)
+![static badge](https://img.shields.io/badge/-django-blue?logo=django)
+![static badge](https://img.shields.io/badge/-postgresql-336791?logo=postgresql)
+![static badge](https://img.shields.io/badge/-fastapi-009688?logo=fastapi)
+![static badge](https://img.shields.io/badge/-openai-412991?logo=openai)
+![static badge](https://img.shields.io/badge/-langchain-1c1c1c?logo=chainlink)
+![static badge](https://img.shields.io/badge/-linux-orange?logo=linux)
+![static badge](https://img.shields.io/badge/-telegram-blue?logo=telegram)
 
 💡 Разработчик с инженерным мышлением: пишу чистый и масштабируемый код на Python. Специализируюсь на разработке с Django и FastAPI, работаю с базами данных PostgreSQL, создаю API и веб-приложения.
 
