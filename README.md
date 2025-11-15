@@ -18,8 +18,8 @@
 ---
 
 ### 📫 Let’s Connect
-- Telegram: [@astalex_s](https://t.me/AlexBotTeh)  
-- Email: [alex@example.com](mailto:astaf.al.mi@gmail.com)  
+- Telegram: [@alxas_tech](https://t.me/alxas_tech)  
+- Email: [astaf.al.mi@gmail.com](mailto:astaf.al.mi@gmail.com)  
 
 ---
 
