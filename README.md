@@ -15,8 +15,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-💡 **Vibe coder with engineering mindset**: I'm a developer who writes clean and scalable Python code, but I don't stick to rigid standards of the classical approach. I love finding creative solutions, experimenting with new ideas, and making code not only functional but also enjoyable to work with. I specialize in development with Django and FastAPI, work with PostgreSQL databases, create APIs and web applications.
-
 </td>
 <td width="35%" valign="top" align="center">
 
@@ -26,6 +24,7 @@
 </tr>
 </table>
 
+💡 **Vibe coder with engineering mindset**: I'm a developer who writes clean and scalable Python code, but I don't stick to rigid standards of the classical approach. I love finding creative solutions, experimenting with new ideas, and making code not only functional but also enjoyable to work with. I specialize in development with Django and FastAPI, work with PostgreSQL databases, create APIs and web applications.
 
 ### My experience includes:
 
