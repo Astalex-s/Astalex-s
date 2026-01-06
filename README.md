@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=astalex-s&theme=radical" />
+  <img src="https://github-readme-stats-five-zeta-50.vercel.app)?user=astalex-s&theme=radical" />
 </p>
 
 ---
