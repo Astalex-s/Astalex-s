@@ -1,6 +1,6 @@
 <table style="border-collapse: collapse; border: none;">
 <tr>
-<td width="65%" valign="top" style="border: none; border-bottom: 1px solid #e1e4e8; padding-right: 20px;">
+<td width="65%" valign="top" style="border: none; border-bottom: 0px solid #e1e4e8; padding-right: 20px;">
 
 # Hi 👋 I'm Alexey
 
@@ -16,7 +16,7 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 </td>
-<td width="35%" valign="top" align="center" style="border: none; border-bottom: 1px solid #e1e4e8;">
+<td width="35%" valign="top" align="center" style="border: none; border-bottom: 0px solid #e1e4e8;">
 
 <img src="https://github.com/Astalex-s/Astalex-s/blob/main/cute-dog.gif" alt="The unlimited" width="200">
 
