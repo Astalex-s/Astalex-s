@@ -37,14 +37,29 @@
 
 ## 📊 Статистика GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-five-zeta-50.vercel.app/api?username=astalex-s&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-five-zeta-50.vercel.app/api/top-langs/?username=astalex-s&layout=compact&langs_count=8&theme=radical" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-five-zeta-50.vercel.app)?user=astalex-s&theme=radical" />
-</p>
+![GitHub Stats](https://github-readme-stats-five-zeta-50.vercel.app/api?username=astalex-s&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-five-zeta-50.vercel.app/api/top-langs/?username=astalex-s&layout=compact&langs_count=8&theme=radical)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=astalex-s&theme=radical)
+
+</div>
+
+> ⚠️ **Если статистика не отображается** (ошибка "Error Fetching Resource"), это означает, что сервис `github-readme-stats.vercel.app` недоступен.  
+> 
+> **🔧 Быстрое решение**: 
+> 1. Перейдите по ссылке: [Развернуть на Vercel](https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats)
+> 2. Войдите через GitHub и нажмите "Deploy"
+> 3. После развертывания скопируйте URL вашего проекта (например: `github-readme-stats-astalex-s.vercel.app`)
+> 4. Замените `github-readme-stats.vercel.app` на ваш URL в строках выше
+> 
+> Подробная инструкция в файле `VERCEL_SETUP.md`
 
 ---
 
@@ -55,6 +70,6 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=astalex-s&color=red&style=for-the-badge" alt="Profile views" />
-</p>
+</div>
