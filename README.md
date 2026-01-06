@@ -46,20 +46,8 @@
 </div>
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=astalex-s&theme=radical&hide_border=false)
-
+  <img src="https://github-readme-streak-stats.vercel.app/?user=astalex-s&theme=radical" alt="GitHub Streak"/>
 </div>
-
-> ⚠️ **Если статистика не отображается** (ошибка "Error Fetching Resource"), это означает, что сервис `github-readme-stats.vercel.app` недоступен.  
-> 
-> **🔧 Быстрое решение**: 
-> 1. Перейдите по ссылке: [Развернуть на Vercel](https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats)
-> 2. Войдите через GitHub и нажмите "Deploy"
-> 3. После развертывания скопируйте URL вашего проекта (например: `github-readme-stats-astalex-s.vercel.app`)
-> 4. Замените `github-readme-stats.vercel.app` на ваш URL в строках выше
-> 
-> Подробная инструкция в файле `VERCEL_SETUP.md`
 
 ---
 
