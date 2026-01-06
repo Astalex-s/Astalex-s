@@ -47,7 +47,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=astalex-s&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=astalex-s&theme=radical&hide_border=false)
 
 </div>
 
