@@ -38,11 +38,8 @@
 ## 📊 Статистика GitHub
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats-five-zeta-50.vercel.app/api?username=astalex-s&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-five-zeta-50.vercel.app/api/top-langs/?username=astalex-s&layout=compact&langs_count=8&theme=radical)
-
+<img height="180em" src="https://github-readme-stats-five-zeta-50.vercel.app/api?username=astalex-s&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-five-zeta-50.vercel.app/api/top-langs/?username=astalex-s&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
