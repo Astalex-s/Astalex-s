@@ -1,5 +1,7 @@
 # Hi 👋 I'm Alexey
 
+---
+
 <img class="marginauto" src="https://github.com/Astalex-s/Astalex-s/blob/main/cute-dog.gif" align="right" alt="The unlimited" width="200">
 
 ## My Tech Stack
@@ -12,8 +14,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
----
 
 💡 **Vibe coder with engineering mindset**: I'm a developer who writes clean and scalable Python code, but I don't stick to rigid standards of the classical approach. I love finding creative solutions, experimenting with new ideas, and making code not only functional but also enjoyable to work with. I specialize in development with Django and FastAPI, work with PostgreSQL databases, create APIs and web applications.
 
