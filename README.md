@@ -38,12 +38,12 @@
 ## 📊 Статистика GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astalex-s&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astalex-s&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astalex-s&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astalex-s&layout=compact&langs_count=8&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=astalex-s&theme=radical"/>
+  <img src="https://streak-stats.demolab.com/?user=astalex-s&theme=radical" />
 </p>
 
 ---
