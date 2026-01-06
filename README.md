@@ -37,14 +37,31 @@
 
 ## 📊 Статистика GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astalex-s&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astalex-s&layout=compact&langs_count=8&theme=radical"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astalex-s&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astalex-s&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=astalex-s&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=astalex-s&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<!-- Если статистика не отображается из-за ошибки "Cannot proxy the given URL", попробуйте следующие варианты: -->
+
+<!-- Вариант 1: Использовать альтернативный домен (раскомментируйте строки ниже) -->
+<!--
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.com/api?username=astalex-s&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.com/api/top-langs/?username=astalex-s&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+</p>
+-->
+
+<!-- Вариант 2: Использовать простой формат без лишних параметров -->
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=astalex-s&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astalex-s&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=astalex-s&theme=radical)
+-->
 
 ---
 
@@ -55,6 +72,7 @@
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=astalex-s&color=red&style=for-the-badge" alt="Profile views" />
-</div>
+</p>
+
