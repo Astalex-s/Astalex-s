@@ -49,12 +49,12 @@
 <!-- Если статистика не отображается из-за ошибки "Cannot proxy the given URL", попробуйте следующие варианты: -->
 
 <!-- Вариант 1: Использовать альтернативный домен (раскомментируйте строки ниже) -->
-<!--
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.com/api?username=astalex-s&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.com/api/top-langs/?username=astalex-s&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
 </p>
--->
+
 
 <!-- Вариант 2: Использовать простой формат без лишних параметров -->
 <!--
