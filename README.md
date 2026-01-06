@@ -1,8 +1,8 @@
-# Привет 👋 Меня зовут Алексей
+# Hi 👋 I'm Alexey
 
 <img class="marginauto" src="https://github.com/Astalex-s/Astalex-s/blob/main/cute-dog.gif" align="right" alt="The unlimited" width="200">
 
-## Мой стек технологий
+## My Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -15,27 +15,27 @@
 
 ---
 
-💡 **Вайб кодер с инженерным мышлением**: я разработчик, который пишет чистый и масштабируемый код на Python, но не придерживаюсь жёстких стандартов классического подхода. Мне нравится находить креативные решения, экспериментировать с новыми идеями и делать код не только функциональным, но и приятным в работе. Специализируюсь на разработке с Django и FastAPI, работаю с базами данных PostgreSQL, создаю API и веб-приложения.
+💡 **Vibe coder with engineering mindset**: I'm a developer who writes clean and scalable Python code, but I don't stick to rigid standards of the classical approach. I love finding creative solutions, experimenting with new ideas, and making code not only functional but also enjoyable to work with. I specialize in development with Django and FastAPI, work with PostgreSQL databases, create APIs and web applications.
 
-### Мой опыт включает:
+### My experience includes:
 
-🤖 **Разработка чат-ботов** для Telegram и других платформ с AI-интеграцией
+🤖 **Chatbot development** for Telegram and other platforms with AI integration
 
-🧠 **Автоматизация процессов** с использованием Telegram-ботов и n8n
+🧠 **Process automation** using Telegram bots and n8n
 
-📊 **Управление данными** и оптимизация баз данных
+📊 **Data management** and database optimization
 
-☁️ **Развёртывание на VPS** и настройка серверов Linux
+☁️ **VPS deployment** and Linux server configuration
 
-🧠 **AI-интеграция** с OpenAI и LangChain для умных приложений
+🧠 **AI integration** with OpenAI and LangChain for smart applications
 
-🔧 **Полный цикл разработки** от идеи до production
+🔧 **Full development cycle** from idea to production
 
-Я люблю писать код, который работает эффективно, остаётся простым для понимания и решает реальные задачи. Всегда открыт к новым вызовам, экспериментам и готов помочь превратить вашу идею в работающий продукт!
+I love writing code that works efficiently, remains simple to understand, and solves real problems. Always open to new challenges, experiments, and ready to help turn your idea into a working product!
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats-five-zeta-50.vercel.app/api?username=astalex-s&show_icons=true&theme=radical" alt="GitHub Stats"/>
@@ -44,7 +44,7 @@
 
 ---
 
-## 📫 Давайте свяжемся
+## 📫 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alxas_tech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:astaf.al.mi@gmail.com)
