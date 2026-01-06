@@ -38,20 +38,13 @@
 ## 📊 Статистика GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astalex-s&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astalex-s&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astalex-s&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astalex-s&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=astalex-s&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=astalex-s&theme=radical"/>
 </p>
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=astalex-s&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astalex-s&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=astalex-s&theme=radical)
-
 
 ---
 
@@ -65,4 +58,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=astalex-s&color=red&style=for-the-badge" alt="Profile views" />
 </p>
-
