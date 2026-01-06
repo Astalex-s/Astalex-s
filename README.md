@@ -45,12 +45,6 @@
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=astalex-s&theme=radical)
-
-</div>
-
 ---
 
 ## 📫 Давайте свяжемся
