@@ -46,22 +46,12 @@
   <img src="https://streak-stats.demolab.com/?user=astalex-s&theme=radical" alt="GitHub Streak"/>
 </p>
 
-<!-- Если статистика не отображается из-за ошибки "Cannot proxy the given URL", попробуйте следующие варианты: -->
-
-<!-- Вариант 1: Использовать альтернативный домен (раскомментируйте строки ниже) -->
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.com/api?username=astalex-s&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.com/api/top-langs/?username=astalex-s&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-</p>
 
 
-<!-- Вариант 2: Использовать простой формат без лишних параметров -->
-<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=astalex-s&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astalex-s&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=astalex-s&theme=radical)
--->
+
 
 ---
 
