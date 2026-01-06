@@ -38,8 +38,8 @@
 ## 📊 Статистика GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astalex-s&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astalex-s&layout=compact&langs_count=8&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-bice-tau-18.vercel.app/api?username=astalex-s&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-bice-tau-18.vercel.app/api/top-langs/?username=astalex-s&layout=compact&langs_count=8&theme=radical" />
 </p>
 
 <p align="center">
